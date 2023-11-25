@@ -1,0 +1,20 @@
+{
+    "name": "nece001/php-gears-system-setting",
+    "description": "php 系统设置模块",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nece\\Gears\\SystemSetting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nece001",
+            "email": "nece001@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
